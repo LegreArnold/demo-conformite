@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#D9472B"                 # rouge-orangé du CV, pour une identité cohérente
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F7F9"
+textColor = "#1F2328"
+borderColor = "#E3E6EA"
+baseRadius = "medium"
+font = "Roboto:https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+greenColor = "#15803D"
+redColor = "#B91C1C"
+chartCategoricalColors = ["#D9472B", "#9CA3AF", "#2563EB", "#15803D"]
+
+[client]
+toolbarMode = "viewer"
